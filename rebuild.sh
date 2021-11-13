@@ -18,3 +18,6 @@
 #echo "deb [arch=amd64] https://storage.googleapis.com/bazel-apt stable jdk1.8" | sudo tee /etc/apt/sources.list.d/bazel.list
 #sudo apt update && sudo apt install bazel
 #sudo apt-get install build-essential
+#sudo apt-get install openjdk-8-jdk
+#sudo gedit /etc/environment
+##JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64"
