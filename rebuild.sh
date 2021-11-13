@@ -5,7 +5,7 @@
 #git config --global user.email ttestman4@gmail.com
 #git --version
 #sudo apt-get install curl
-#curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+#curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 #sudo apt-get install -y nodejs
 #node --version
 #npm --version
